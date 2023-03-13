@@ -1,0 +1,13 @@
+ Clipboard Data: 
+The data is stored in separate files with specific file names, such as 'text.txt' for keystrokes, 'sysinfo.txt' for system information, 'clipboard.txt' for clipboard content, and so on.
+08-01-2023 17~44~49 
+
+Clipboard Data: 
+To email the zipped file, the program uses the 'smtplib' module to connect to an email server and send the email. It constructs the email message using the 'MIMEMultipart', 'MIMEText', and 'MIMEBase' classes from the 'email.mime' module. The 'MIMEMultipart' class is used to create the overall message structure, the 'MIMEText' class is used to add the message body, and the 'MIMEBase' class is used to add the attachment (the zipped file containing the collected data).
+08-01-2023 17~46~19 
+
+Clipboard Data: 
+To email the zipped file, the program uses the 'smtplib' module to connect to an email server and send the email. It constructs the email message using the 'MIMEMultipart', 'MIMEText', and 'MIMEBase' classes from the 'email.mime' module. The 'MIMEMultipart' class is used to create the overall message structure, the 'MIMEText' class is used to add the message body, and the 'MIMEBase' class is used to add the attachment (the zipped file containing the collected data).
+08-01-2023 17~47~49 
+
+Clipboard could not be copied
